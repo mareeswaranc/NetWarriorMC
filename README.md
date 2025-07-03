@@ -1,13 +1,20 @@
-# Hi there 👋, I'm Mareeswaran
+# 👋 Hi there, I'm Mareeswaran
 
-## About Me
-I'm a passionate MCA student with a strong background in Python and JavaScript. I'm currently learning Solidity and aiming to become a proficient DApp developer. I love to build innovative projects and contribute to open-source communities.
+## 🚀 About Me
+I'm an aspiring **Automation Developer** and an MCA student with a passion for building real-world solutions using no-code/low-code platforms and AI tools. I enjoy combining tools like **n8n**, **Telegram**, **Google Apps**, and **OpenAI/Ollama** to create smart automations and personal productivity bots.
 
-## 🛠️ My Skills
+Currently, I’m also exploring **Solidity** to dive into the world of **decentralized applications (DApps)**.
 
-### Programming Languages
-- Python
-- JavaScript
+---
+
+## 🧠 My Skills
+
+### Automation & AI Tools
+- n8n (Workflow Automation)
+- Ollama (LLM integration)
+- OpenAI (ChatGPT API)
+- Google Apps (Gmail, Sheets, Calendar)
+- Telegram Bot API
 
 ### Frameworks & Libraries
 - React
@@ -16,32 +23,58 @@ I'm a passionate MCA student with a strong background in Python and JavaScript. 
 ### Tools & Platforms
 - Git & GitHub
 - VS Code
+- Google Cloud
+- WhatsApp Business API (in progress)
 
-## 🌱 I’m currently learning
-- Solidity
+---
 
-## 👨‍💻 I’m looking to collaborate on
-- Open-source projects
-- Innovative web applications
-- Blockchain and DApp projects
+## 🛠️ Projects I’ve Built
+- **Role-Based Email Sender** – Reads Google Sheets and sends emails based on user role.
+- **Daily Motivation Bot** – Sends motivational images to WhatsApp/Telegram daily.
+- **Birthday Reminder System** – Pulls dates from Google Calendar and sends reminders.
+- **FANA** – My first personal AI chatbot using n8n + Ollama + Telegram.
 
-## 🤔 I’m looking for help with
-- Learning Solidity
+---
 
-## 💬 Ask me about
-- Python
-- JavaScript
-- React
-- Node.js
+## 🌱 Currently Learning
+- Solidity for DApp Development
+- Advanced n8n integrations
+- AI Agent design (context, tools, LLMs)
 
-## 📫 How to reach me
-- Email: cmareeswaranc@gmail.com
-- LinkedIn: www.linkedin.com/in/mareeswaranc
+---
+
+## 🤝 I’m Looking to Collaborate On
+- AI-powered automation tools
+- Innovative web apps
+- Open-source DApp projects
+
+---
+
+## 💬 Ask Me About
+- n8n and workflow automation
+- Building Telegram/WhatsApp bots
+- Python & JavaScript
+- Google Workspace automations
+
+---
+
+## 📫 Reach Me At
+- 📧 Email: cmareeswaranc@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/mareeswaranc](https://www.linkedin.com/in/mareeswaranc)
+
+---
+
+## 🎯 Goals for 2025
+- Master JavaScript & Solidity  
+- Build 10+ practical automation workflows  
+- Launch a personal automation product or service  
+- Contribute to open-source AI/automation tools
+
+---
 
 ## 😄 Pronouns
 - He/Him
 
-## 🎯 Goals for 2025
-- Master JavaScript
-- Master Solidity
-- Become a proficient DApp developer
+---
+
+*Let’s connect and learn by building together!*
