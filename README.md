@@ -30,7 +30,6 @@ Currently, I’m also exploring **Solidity** to dive into the world of **decentr
 
 ## 🛠️ Projects I’ve Built
 - **Role-Based Email Sender** – Reads Google Sheets and sends emails based on user role.
-- **Daily Motivation Bot** – Sends motivational images to WhatsApp/Telegram daily.
 - **Birthday Reminder System** – Pulls dates from Google Calendar and sends reminders.
 - **FANA** – My first personal AI chatbot using n8n + Ollama + Telegram.
 
@@ -53,7 +52,6 @@ Currently, I’m also exploring **Solidity** to dive into the world of **decentr
 ## 💬 Ask Me About
 - n8n and workflow automation
 - Building Telegram/WhatsApp bots
-- Python & JavaScript
 - Google Workspace automations
 
 ---
