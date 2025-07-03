@@ -24,7 +24,6 @@ Currently, I’m also exploring **Solidity** to dive into the world of **decentr
 - Git & GitHub
 - VS Code
 - Google Cloud
-- WhatsApp Business API (in progress)
 
 ---
 
