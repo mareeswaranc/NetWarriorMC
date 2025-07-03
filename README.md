@@ -16,10 +16,6 @@ Currently, I’m also exploring **Solidity** to dive into the world of **decentr
 - Google Apps (Gmail, Sheets, Calendar)
 - Telegram Bot API
 
-### Frameworks & Libraries
-- React
-- Node.js
-
 ### Tools & Platforms
 - Git & GitHub
 - VS Code
